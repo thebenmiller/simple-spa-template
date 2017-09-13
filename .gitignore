@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# build directory contents
+dist/
+
+# system specific files
+.DS_Store
