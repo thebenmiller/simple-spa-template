@@ -42,6 +42,7 @@
     "baboon-image": "^2.1.0",
     "canvas-fit": "^1.5.0",
     "dat.gui": "^0.6.1",
+    "file-loader": "^1.1.5",
     "gl-shader": "^4.2.1",
     "gl-texture2d": "^2.1.0",
     "glsl-noise": "0.0.0",
